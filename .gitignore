@@ -1,2 +1,6 @@
 ~/env
 env.py
+core.python*
+__pycache__/
+.github/
+blog/fixtures/
